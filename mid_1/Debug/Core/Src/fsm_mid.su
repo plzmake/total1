@@ -1,0 +1,7 @@
+fsm_mid.c:30:6:display7SEG	16	static
+fsm_mid.c:83:6:isResetNor	8	static
+fsm_mid.c:99:6:isIncNor	8	static
+fsm_mid.c:120:6:isDecNor	8	static
+fsm_mid.c:140:6:long_press_inc	4	static
+fsm_mid.c:150:6:long_press_dec	4	static
+fsm_mid.c:159:6:timer_out	8	static

@@ -1,0 +1,9 @@
+main.c:98:6:fsm_simple_buttons_run	16	static
+main.c:66:5:main	16	static
+main.c:130:6:long_press	16	static
+main.c:150:6:timer_out_10s	16	static
+main.c:183:6:SystemClock_Config	72	static
+main.c:219:13:MX_TIM2_Init	32	static
+main.c:264:13:MX_GPIO_Init	32	static
+main.c:304:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:314:6:Error_Handler	4	static,ignoring_inline_asm
